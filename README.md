@@ -1,4 +1,7 @@
-# Telco Customer Churn Proje Raporu (Kisa)
+# Telco Customer Churn Proje Raporu
+
+Öğrenci: Muhammet İrfan Günel 
+No: 22430070042
 
 ## 1. Proje Amaci
 Bu projenin amaci, musteri kaybini (churn) erken tespit etmek ve veri odakli aksiyonlarla kaybi azaltmaktir.
